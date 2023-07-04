@@ -1,5 +1,33 @@
 {
-  "projects": [],
+  "projects": [
+    {
+      "name": "Pedro Gustavo ",
+      "budget": "123123123",
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "teste",
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "teste",
+      "budget": "1222",
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "teste",
+      "budget": "1000000000000000",
+      "cost": 0,
+      "services": [],
+      "id": 4
+    }
+  ],
   "categories": [
     {
       "id": 1,

@@ -1,5 +1,5 @@
 import styles from './NovoProjeto.modules.css';
-import ProjetoForm from '../project/ProjetoForm';
+import ProjetoForm from '../project/projetoForm';
 
 function NovoProjeto(){
     return(

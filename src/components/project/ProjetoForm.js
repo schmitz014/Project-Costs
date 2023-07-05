@@ -32,9 +32,13 @@ function ProjetoForm({ handleSubmit, btnText, projectData }) {
   }
 
   function handleCategory(e) {
-    const selectedCategoryId = e.target.value;
-    const selectedCategory = categories.find(category => category.id === selectedCategoryId);
-    setProject({ ...project, category: selectedCategory });
+    setProject({
+      ...project,
+      category: {
+        id: e.target.value,
+        name: e.target.options[e.target.selectedIndex].text,
+      },
+    })
   }
 
   return (

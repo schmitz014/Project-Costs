@@ -12,7 +12,12 @@ function Projetos(){
     return(
         <div>
             <h1>Meus Projetos</h1>
-            {message && <Mensagem type="success" msg={message}/>}
+            {message ? (
+                <Mensagem type="success" msg={message}/>
+                ) : (
+                <Mensagem type="error" msg="Projeto não criado!"/>
+                )
+            }
         </div>
         )
     

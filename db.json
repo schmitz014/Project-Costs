@@ -191,6 +191,28 @@
       "cost": 0,
       "services": [],
       "id": 19
+    },
+    {
+      "name": "teste",
+      "budget": "121212",
+      "category": {
+        "id": "1",
+        "name": "Infraestrutura"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 20
+    },
+    {
+      "name": "teste",
+      "budget": "101001",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 21
     }
   ],
   "categories": [

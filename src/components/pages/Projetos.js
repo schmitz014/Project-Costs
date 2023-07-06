@@ -1,5 +1,5 @@
 import { useLocation } from "react-router-dom";
-import Mensagem from "../components/layout/Mensagem";
+import Mensagem from '../layout/Mensagem';
 
 function Projetos(){
 

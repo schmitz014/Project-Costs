@@ -169,6 +169,17 @@
       "cost": 0,
       "services": [],
       "id": 17
+    },
+    {
+      "name": "teste",
+      "budget": "000",
+      "category": {
+        "id": "1",
+        "name": "Infraestrutura"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 18
     }
   ],
   "categories": [

@@ -180,6 +180,17 @@
       "cost": 0,
       "services": [],
       "id": 18
+    },
+    {
+      "name": "teste",
+      "budget": "100",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 19
     }
   ],
   "categories": [
